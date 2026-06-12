@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Nil Amara</h1>
-  <p><strong>Product-minded engineer building AI, computer vision, IoT, and local-first tools.</strong></p>
+  <p><strong>Product-minded engineer building AI systems, computer vision, IoT, and agentic developer tools.</strong></p>
   <p>
     I turn rough product ideas into shippable systems, from browser extensions and mobile apps
     to industrial edge AI platforms.
@@ -10,6 +10,7 @@
     <img alt="Industrial AI" src="https://img.shields.io/badge/Industrial%20AI-111827?style=for-the-badge">
     <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=for-the-badge">
     <img alt="IoT and Edge" src="https://img.shields.io/badge/IoT%20%2B%20Edge-059669?style=for-the-badge">
+    <img alt="Agentic Devtools" src="https://img.shields.io/badge/Agentic%20Devtools-7C3AED?style=for-the-badge">
     <img alt="Local First AI" src="https://img.shields.io/badge/Local--first%20AI-7C3AED?style=for-the-badge">
     <img alt="Rabat" src="https://img.shields.io/badge/Rabat-Morocco-E11D48?style=for-the-badge">
   </p>
@@ -38,10 +39,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>Local-first AI tools</h3>
+      <h3>Agentic and local-first AI tools</h3>
       <p>
-        AI features that stay cheap, private, and useful: local translation, local LLM gateways,
-        embeddings, RAG, speech processing, and workflow automation.
+        Developer-facing AI tools, local translation, local LLM gateways, embeddings, RAG,
+        speech processing, and workflow automation that stay cheap, private, and useful.
       </p>
     </td>
     <td width="50%">
@@ -59,6 +60,14 @@
 <table>
   <tr>
     <td width="34%">
+      <h3><a href="https://github.com/Nil06/parallel-cli">Parallel</a></h3>
+      <p><strong>Public open-source</strong> · <a href="https://www.npmjs.com/package/@parallel-cli/parallel">npm</a></p>
+      <p>
+        A real-time multi-agent coding CLI where agents share live context,
+        co-edit without locks, run in dedicated terminals, and support headless CI runs.
+      </p>
+    </td>
+    <td width="33%">
       <h3><a href="https://github.com/Nil06/chinese-web-translator">Chinese Web Translator</a></h3>
       <p><strong>Public open-source</strong></p>
       <p>
@@ -74,7 +83,9 @@
         FastAPI backends, and Vue/Next.js operational UIs.
       </p>
     </td>
-    <td width="33%">
+  </tr>
+  <tr>
+    <td width="34%">
       <h3>Edge vision and VLMs</h3>
       <p><strong>Private/local work</strong></p>
       <p>
@@ -82,9 +93,7 @@
         experiments, auto-annotation, and MQTT event publishing.
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="34%">
+    <td width="33%">
       <h3>Layr</h3>
       <p><strong>Private product</strong></p>
       <p>
@@ -98,14 +107,6 @@
       <p>
         A mobile AI companion product built around long-term personality, memory,
         retention, Supabase, embeddings, and async AI jobs.
-      </p>
-    </td>
-    <td width="33%">
-      <h3>Small business tools</h3>
-      <p><strong>Private/client work</strong></p>
-      <p>
-        Booking apps, streaming tools, PDF/vision workflows, education prototypes,
-        transcription systems, and practical automations for real users.
       </p>
     </td>
   </tr>
@@ -127,6 +128,8 @@
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111111">
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="Ink" src="https://img.shields.io/badge/Ink-111827?style=flat-square">
+  <img alt="OpenAI compatible" src="https://img.shields.io/badge/OpenAI--compatible-111827?style=flat-square">
 </p>
 
 ### Current focus
@@ -134,6 +137,7 @@
 - Industrial AI for production monitoring, traceability, and operational decision-making.
 - Edge computer vision that can run close to the machine, not just in the cloud.
 - IoT systems that connect sensors, devices, brokers, APIs, and dashboards cleanly.
+- Agentic developer tools that make multiple AI coding agents observable, steerable, and practical.
 - AI products with a sane cost model: local-first when possible, cloud APIs only where they matter.
 - Open-source tools that are easy to install, honest about tradeoffs, and useful on day one.
 
